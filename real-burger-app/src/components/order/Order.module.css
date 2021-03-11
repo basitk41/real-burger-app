@@ -1,0 +1,13 @@
+.Order {
+  width: 90%;
+  border: 1px solid wheat;
+  box-shadow: 0 2px 3px rgb(246, 242, 242);
+  padding: 10px;
+  margin: 10px auto;
+  box-sizing: border-box;
+}
+.Order span {
+  border: 1px solid rgb(204, 187, 190);
+  border-radius: 2px;
+  padding: 5px 5px;
+}
